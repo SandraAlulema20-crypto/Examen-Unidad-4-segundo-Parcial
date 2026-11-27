@@ -1,121 +1,119 @@
 # Examen-Unidad-4-segundo-Parcial
 Realizar el exmanen sin ia generativa y hacerlo correctamente caso E 
-🎓 AulaLogic – Sistema de Seguimiento del Rendimiento Académico
+
+🎓 AULALOGIC
+
+Sistema de Seguimiento del Rendimiento Académico
 
 <p align="center">
-  **Universidad Técnica de Ambato**
-
-Facultad de Ingeniería en Sistemas, Electrónica e Industrial
-
-Carrera de Ingeniería de Software
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ⸻
 
-📌 Descripción del proyecto
+🏛️ Universidad Técnica de Ambato
 
-AulaLogic es un sistema desarrollado en Java que permite registrar, consultar, procesar y almacenar las calificaciones de los estudiantes de una asignatura.
-
-El sistema funciona mediante consola y genera reportes para analizar el rendimiento académico del curso.
-
-🎯 Objetivo
-
-Implementar una solución que aplique algoritmos, estructuras de control, programación orientada a objetos, arreglos, listas y manejo de archivos.
-
-👨‍💻 Información académica
-
-Información	Detalle
-Universidad	Universidad Técnica de Ambato
-Facultad	FISEI
-Carrera	Ingeniería de Software
-Asignatura	Algoritmos y Lógica de Programación
-Proyecto	AulaLogic
-Lenguaje	Java
-Variante	E
-Nota mínima de aprobación	15/20
-
-⚙️ Funcionalidades
-
-* 📝 Registro de estudiantes.
-* 🔍 Búsqueda por código.
-* 📋 Listado de estudiantes.
-* 🧮 Cálculo de promedios.
-* 📊 Reportes del rendimiento académico.
-* 🏆 Identificación de notas máximas y mínimas.
-* 💾 Almacenamiento y recuperación de datos.
-* ✅ Validación de calificaciones.
-* 📈 Ordenamiento por promedio.
-
-📂 Estructura del proyecto
-
-Examen-ALP-Apellido-Nombre/
-│
-├── README.md
-├── src/
-│   ├── Main.java
-│   ├── Estudiante.java
-│   ├── GestionAcademica.java
-│   └── GestorArchivos.java
-│
-├── datos/
-│   └── estudiantes.txt
-│
-├── docs/
-│   ├── Analisis.md
-│   └── CasosDePrueba.md
-│
-└── evidencias/
-    └── Ejecucion.png
-
-🛠️ Tecnologías utilizadas
-
-* Java
-* NetBeans IDE
-* Git
-* GitHub
-* Archivos de texto (.txt)
-
-▶️ Ejecución del programa
-
-1. Clonar o descargar el repositorio.
-2. Abrir el proyecto en NetBeans.
-3. Verificar que los archivos Java estén dentro de src.
-4. Ejecutar la clase Main.java.
-5. Utilizar las opciones del menú principal.
-
-📊 Criterio de aprobación – Variante E
-
-El sistema considera los siguientes estados:
-
-Promedio	Estado
-15 a 20	APROBADO
-Menor a 15	REPROBADO
-
-🧪 Pruebas del sistema
-
-Se contemplan ocho casos de prueba:
-
-1. Registro correcto.
-2. Código duplicado.
-3. Calificación fuera del rango.
-4. Promedio igual a 15.
-5. Búsqueda existente.
-6. Búsqueda inexistente.
-7. Reporte sin estudiantes.
-8. Guardado y recuperación de registros.
-
-👤 Autor
-
-Estudiante: [Sandra Jazmin Alulema Chato]
+Facultad: Ingeniería en Sistemas, Electrónica e Industrial (FISEI)
 Carrera: Ingeniería de Software
-Universidad: Universidad Técnica de Ambato
+Asignatura: Algoritmos y Lógica de Programación
+Proyecto: Examen Práctico Integrador
+Variante asignada: E
 
 ⸻
 
-<p align="center">
-  🎓 **AULALOGIC**
+📖 Sobre el proyecto
 
-Organización, procesamiento y seguimiento del rendimiento académico.
+AulaLogic es un sistema desarrollado en Java que permite gestionar la información académica de los estudiantes mediante el registro, consulta, procesamiento y almacenamiento de calificaciones.
+
+Su funcionamiento se realiza mediante consola y permite generar reportes para conocer el rendimiento académico del curso.
+
+🎯 Objetivos
+
+* Administrar registros de estudiantes.
+* Procesar las calificaciones automáticamente.
+* Generar indicadores del rendimiento académico.
+* Conservar la información mediante archivos de texto.
+* Aplicar programación orientada a objetos.
+
+✨ Funcionalidades principales
+
+Funcionalidad	Descripción
+📝 Registro	Ingreso de estudiantes y calificaciones
+📋 Listado	Visualización de estudiantes registrados
+🔎 Búsqueda	Consulta mediante código
+🧮 Promedios	Cálculo de notas individuales
+📊 Reportes	Estadísticas del rendimiento académico
+💾 Archivos	Guardado y recuperación de información
+↕️ Ordenamiento	Clasificación por promedio
+
+📌 Variante E – Criterio de aprobación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NOTA%20MÍNIMA-15%2F20-success?style=for-the-badge">
+</p>
+
+Promedio	Estado
+15 – 20	✅ APROBADO
+Menor a 15	❌ REPROBADO
+
+🛠️ Herramientas utilizadas
+
+* ☕ Java
+* 💻 Apache NetBeans
+* 🌐 GitHub
+* 📁 Archivos de texto
+
+📂 Organización del proyecto
+
+📦 Examen-ALP-Apellido-Nombre
+ ┣ 📂 src
+ ┃ ┣ 📜 Main.java
+ ┃ ┣ 📜 Estudiante.java
+ ┃ ┣ 📜 GestionAcademica.java
+ ┃ ┗ 📜 GestorArchivos.java
+ ┣ 📂 datos
+ ┃ ┗ 📜 estudiantes.txt
+ ┣ 📂 docs
+ ┃ ┣ 📜 Analisis.md
+ ┃ ┗ 📜 CasosDePrueba.md
+ ┣ 📂 evidencias
+ ┃ ┗ 🖼️ Ejecucion.png
+ ┗ 📜 README.md
+
+▶️ Instalación y ejecución
+
+1. Clonar el repositorio.
+2. Abrir el proyecto en Apache NetBeans.
+3. Verificar la ubicación de los archivos Java.
+4. Ejecutar Main.java.
+5. Seleccionar una opción del menú principal.
+
+🧪 Casos de prueba
+
+* CP01 – Registro correcto.
+* CP02 – Código duplicado.
+* CP03 – Calificación fuera del rango.
+* CP04 – Promedio igual a 15.
+* CP05 – Búsqueda de estudiante existente.
+* CP06 – Búsqueda de estudiante inexistente.
+* CP07 – Reporte sin estudiantes.
+* CP08 – Guardado y recuperación de datos.
+
+👨‍🎓 Autor
+
+Nombre: [Sandra Jazmin Alulema Chato]
+Universidad: Universidad Técnica de Ambato
+Carrera: Ingeniería de Software
+
+
+
+<p align="center">
+  🎓 <strong>AULALOGIC</strong>
+
+Gestión académica mediante programación y tecnología.
+
+Universidad Técnica de Ambato · 2026
 
 </p>
