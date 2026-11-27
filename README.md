@@ -69,17 +69,29 @@ Menor a 15	❌ REPROBADO
 
 📦 Examen-ALP-Apellido-Nombre
  ┣ 📂 src
+ 
  ┃ ┣ 📜 Main.java
+
+ 
  ┃ ┣ 📜 Estudiante.java
+ 
  ┃ ┣ 📜 GestionAcademica.java
+ 
  ┃ ┗ 📜 GestorArchivos.java
+ 
  ┣ 📂 datos
+ 
  ┃ ┗ 📜 estudiantes.txt
  ┣ 📂 docs
+ 
  ┃ ┣ 📜 Analisis.md
+ 
  ┃ ┗ 📜 CasosDePrueba.md
+ 
  ┣ 📂 evidencias
+ 
  ┃ ┗ 🖼️ Ejecucion.png
+ 
  ┗ 📜 README.md
 
 ▶️ Instalación y ejecución
