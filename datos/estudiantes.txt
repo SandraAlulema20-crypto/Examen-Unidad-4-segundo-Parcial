@@ -1,1 +1,1 @@
-
+# Los registros se guardarán aquí con el formato código;nombre;nota1;nota2;nota3
