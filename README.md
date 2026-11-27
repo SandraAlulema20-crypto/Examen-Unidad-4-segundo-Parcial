@@ -105,12 +105,19 @@ Menor a 15	❌ REPROBADO
 🧪 Casos de prueba
 
 * CP01 – Registro correcto.
+  
 * CP02 – Código duplicado.
+  
 * CP03 – Calificación fuera del rango.
+  
 * CP04 – Promedio igual a 15.
+  
 * CP05 – Búsqueda de estudiante existente.
+* 
 * CP06 – Búsqueda de estudiante inexistente.
+
 * CP07 – Reporte sin estudiantes.
+  
 * CP08 – Guardado y recuperación de datos.
 
 👨‍🎓 Autor
