@@ -46,11 +46,18 @@ Su funcionamiento se realiza mediante consola y permite generar reportes para co
 
 Funcionalidad	Descripción
 📝 Registro	Ingreso de estudiantes y calificaciones
+
 📋 Listado	Visualización de estudiantes registrados
+
 🔎 Búsqueda	Consulta mediante código
+
 🧮 Promedios	Cálculo de notas individuales
+
+
 📊 Reportes	Estadísticas del rendimiento académico
+
 💾 Archivos	Guardado y recuperación de información
+
 ↕️ Ordenamiento	Clasificación por promedio
 
 📌 Variante E – Criterio de aprobación
