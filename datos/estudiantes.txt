@@ -1,9 +1,10 @@
-# Los registros se guardarán aquí con el formato código;nombre;nota1;nota2;nota3
-E001;Ana Torres;15;18;12
-E002;Carlos Pérez;18;19;20
-E003;María López;10;12;14
-E004;José Sánchez;16;17;18
-E005;Lucía Gómez;14;15;16
-E006;Pedro Ruiz;20;19;18
-E007;Sofía Castro;8;11;13
-E008;Daniel Vera;15;15;15
+# Los registros se guardarán aquí con el formato código;nombre;nota1;nREGISTROS DE ESTUDIANTES - AULALOGIC
+Formato de entrada: código;nombre;calificación1;calificación2;calificación3
+
+001;Ana Torres;18;16;17
+002;Luis Mena;15;15;15
+003;Rosa Paredes;12;14;13
+004;Mario Silva;20;18;19
+005;Elena Cruz;14;15;15
+
+Criterio: promedio >= 15 = APROBADO; promedio < 15 = REPROBADO.
