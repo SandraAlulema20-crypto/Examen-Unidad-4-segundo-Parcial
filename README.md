@@ -5,6 +5,7 @@ Realizar el exmanen sin ia generativa y hacerlo correctamente caso E
 
 Sistema de Seguimiento del Rendimiento Académico
 
+JAVA 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
@@ -32,9 +33,13 @@ Su funcionamiento se realiza mediante consola y permite generar reportes para co
 🎯 Objetivos
 
 * Administrar registros de estudiantes.
+  
 * Procesar las calificaciones automáticamente.
+  
 * Generar indicadores del rendimiento académico.
+  
 * Conservar la información mediante archivos de texto.
+  
 * Aplicar programación orientada a objetos.
 
 ✨ Funcionalidades principales
@@ -113,7 +118,7 @@ Menor a 15	❌ REPROBADO
 * CP04 – Promedio igual a 15.
   
 * CP05 – Búsqueda de estudiante existente.
-* 
+  
 * CP06 – Búsqueda de estudiante inexistente.
 
 * CP07 – Reporte sin estudiantes.
